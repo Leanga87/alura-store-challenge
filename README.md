@@ -8,18 +8,28 @@ El desafío consiste en analizar los datos de ventas, productos más vendidos, r
 
 ## Tecnologías utilizadas
 
-- **Python**
-- **Google Colab**
-- **Matplotlib** (para visualización de datos)
-- **Pandas** (para análisis de datos) - aunque el desafío se hizo sin utilizar pandas, se recomienda aprender a usarlo en proyectos futuros.
+- Python  
+- Google Colab  
+- Matplotlib (para visualización de datos)  
+- Pandas (para análisis de datos) - aunque el desafío se hizo sin utilizar pandas, se recomienda aprender a usarlo en proyectos futuros.
 
 ## Objetivos del desafío
 
-1. **Análisis de facturación**: Analizar los ingresos de cada tienda.
-2. **Ventas por categoría**: Identificar las categorías más vendidas en cada tienda.
-3. **Calificación promedio de la tienda**: Calcular el puntaje promedio de las reseñas de clientes.
-4. **Productos más y menos vendidos**: Identificar los productos más vendidos y los menos vendidos.
-5. **Envío promedio por tienda**: Analizar el tiempo promedio de envío por tienda.
+- **Análisis de facturación:** Analizar los ingresos de cada tienda.  
+- **Ventas por categoría:** Identificar las categorías más vendidas en cada tienda.  
+- **Calificación promedio de la tienda:** Calcular el puntaje promedio de las reseñas de clientes.  
+- **Productos más y menos vendidos:** Identificar los productos más vendidos y los menos vendidos.  
+- **Envío promedio por tienda:** Analizar el tiempo promedio de envío por tienda.  
+
+## Desafío Extra: Análisis geográfico de ventas
+
+En este desafío opcional, se exploraron las coordenadas geográficas (latitud y longitud) de las tiendas para identificar patrones relacionados con la ubicación de las compras. Se realizaron las siguientes tareas:
+
+- **Mapeo de ventas por tienda:** Se generó un gráfico de dispersión para visualizar la distribución geográfica de las tiendas usando sus coordenadas.  
+- **Visualización de concentración de ventas:** Se creó un mapa de calor para identificar áreas con mayor concentración de ventas.  
+- **Análisis de rendimiento por región:** Se relacionaron los ingresos y calificaciones de las tiendas con su ubicación para detectar posibles patrones geográficos que influyan en su desempeño.  
+
+Este análisis permitió obtener insights sobre cómo la ubicación puede afectar el rendimiento y las ventas de cada tienda.
 
 ## Instrucciones de uso
 
