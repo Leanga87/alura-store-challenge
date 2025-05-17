@@ -31,9 +31,9 @@ El desafío consiste en analizar los datos de ventas, productos más vendidos, r
 - **Mapeo de ventas por tienda:** Gráfico de dispersión geográfica.  
 ![Gráfico ubicación geográfica](img/ubicacion_geografica_mapeado.png)
 - **Visualización de concentración de ventas:** Mapa de calor.  
-![Gráfico distribución geográfica](img/Distribucion_geaografica_dispersion)
+![Gráfico distribución geográfica](img/Distribucion_geaografica_dispersion.png)
 - **Análisis de rendimiento por región:** Dispersión por calificación.  
-![Gráfico calificación por ubicación](img/Distribucion_geaografica_calificacion_dispersion)
+![Gráfico calificación por ubicación](img/Distribucion_geaografica_calificacion_dispersion.png)
 
 
 
