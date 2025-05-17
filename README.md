@@ -43,8 +43,9 @@ Este análisis permitió obtener insights sobre cómo la ubicación puede afecta
 
 1. Clona este repositorio en tu máquina local o accede a él a través de GitHub.
    
-   ```bash
-   git clone https://github.com/Leanga87/alura-store-challenge.git
+```bash
+git clone https://github.com/Leanga87/alura-store-challenge.git
+
 
 **Autor**
 **Leandro Puebla Martinez**
